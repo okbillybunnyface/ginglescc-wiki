@@ -1,8 +1,8 @@
 <!-- TITLE: Ulpha -->
 <!-- SUBTITLE: The land of mud and no bells. -->
 
-# Characters
-## Players
+## Characters
+### Players
 [Ada](dnd/characters/ada)
 [Dalton](dnd/characters/dalton)
 [Dhalia](dnd/characters/dhalia)
@@ -10,4 +10,4 @@
 [Roland](dnd/characters/roland)
 [Stadwin](dnd/characters/stadwin)
 
-## NPCS
+### NPCS
