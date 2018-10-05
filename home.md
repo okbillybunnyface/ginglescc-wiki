@@ -1,5 +1,5 @@
 <!-- TITLE: wiki.gingles.cc -->
 <!-- SUBTITLE: Welcome! -->
 
-### D&D Campaigns
+## D&D Campaigns
 
