@@ -1,7 +1,7 @@
 <!-- TITLE: Characters -->
 <!-- SUBTITLE: The personalities of Ulpha -->
 
-### [Player Characters](characters/players)
+#### [Player Characters](characters/players)
 [Ada (Caroline)](characters/players/ada)
 [Dalton (Joe)](characters/players/dalton)
 [Dhalia (Loretta)](characters/players/dhalia)
