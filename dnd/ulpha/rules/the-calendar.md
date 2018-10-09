@@ -4,7 +4,7 @@
 # Dwarven Reckoning
 The common calendar of the Nisqwal is the Dwarven Reckoning, a mixed lunisolar calendar that puts the current year at 3789 and begins at a major event called the Battle of the Gate. Though few Humans or Elves know the history of this battle, the calendar has stuck as a fairly complete recounting of natural phenomena. 
 
-A year begins on the first full moon following the Vernal Equinox and is either 12 Months (354 days) or 13 Months (383-385 days) long. These intervals repeat over a 32 year cycle. In general, the years alternate between long and short, though the long year is skipped four times per cycle, on the 7th, 15th, 23rd, and 31st year. Thus the sequence of year lengths is as follows:
+A year begins on the first full moon following the Vernal Equinox and is either 12 Months (354 days) or 13 Months (383-385 days) long. These intervals repeat over a 32 year cycle. In general, the years alternate between long and short, though the long year is skipped four times per cycle, on the 7th, 15th, 23rd, and 31st year. The full sequence of year lengths is as follows:
 
 385
 354
@@ -16,7 +16,7 @@ A year begins on the first full moon following the Vernal Equinox and is either 
 354
 384
 354
-383
+384
 354
 384
 354
@@ -26,20 +26,21 @@ A year begins on the first full moon following the Vernal Equinox and is either 
 354
 383
 354
-384
+385
 354
 354
 354
 384
 354
-383
+384
 354
 384
 354
 354
 354
 
- The year 3789 is a 385-day year, as the first day of the year fell directly on the Vernal Equinox. Months are always either 29 or 30 days, alternating beginning with 29, except that on a 32nd year (such as this one), the first month is 30 days, creating two straight 30-day months at the beginning of the year. The thirteenth month alternates between 29 and 30 days. This year it will be 30 days.
+
+ The year 3789 is a 385-day year, as the first day of the year fell directly on the Vernal Equinox. Months are always either 29 or 30 days, alternating beginning with 29, except that on certain long years (including this one), the first month is 30 days, creating two straight 30-day months at the beginning of the year. The thirteenth month alternates between 29 and 30 days. This year it will be 30 days.
 
 As a consequence of these fairly arcane practices, the first day of the month always has a full moon in the sky either the night before or the night after. 
 
