@@ -3,4 +3,5 @@
 
 [Characters](ulpha/characters)
 [Major Events](ulpha/events)
+[Game Sessions](ulpha/sessions)
 [Locations](ulpha/locations)
