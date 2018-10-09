@@ -2,6 +2,10 @@
 <!-- SUBTITLE: A quick summary of Locations -->
 
 # The Nisqwal Commonwealth
+
+The Nisqwal Commonwealth is a loose collection of cities, towns, and villages along the coast of the Irenic Ocean and bordered by the Skaj'it mountains to the north. The land is fertile, savage, and rainy. The Humans native to the area are typically copper-skinned, with brown, green, or grey eyes and hair ranging from red through brown to black. Halflings are common to the area as well, and often mingle with humans in the sames cities, though due to their architechtural preferences are often concentrated in boroughs within those cities. Dwarves, Elves, and Gnomes are rarer, though legends tell there was a time when they were widespread. Nonetheless, there is little tension between these humanoid races, as the culture of the area is strongly communalist and tolerant. Most administration is handled by an elected council, commonly consisting of three members. A large municipality may have several councils, each governing a specific aspect of policy, but commonly mingling and voting together on issues of interest to all.
+
+
 ## Ulpha
 
 "The town of Ulpha is often called Mudharbor; the name was first used by the Mudharbor Trading Company, and became the unofficial moniker of the town for reasons that don't take long to see; the mornings are misty even now in the late summer, and those few days when the clouds do break in the afternoon are even less pleasant, growing unbearably humid, the air itself sweating.
