@@ -4,4 +4,5 @@
 [Characters](ulpha/characters)
 [Major Events](ulpha/events)
 [Game Sessions](ulpha/sessions)
+[House Rules](ulpha/rules)
 [Locations](ulpha/locations)
