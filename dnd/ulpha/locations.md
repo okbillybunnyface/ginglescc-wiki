@@ -13,7 +13,7 @@ The Nisqwal Commonwealth is a loose collection of cities, towns, and villages al
 "Ulpha is a town hacked from the forests at the Eastern tip of the Whulge, a many-fingered inlet that cuts deep inland. From here, goods of the Sqaj'it mountains and the plains north thereof find their way onto ships that run up and down the coast. It is a prosperous city, though it doesn't look it; the buildings, though well-crafted, are universally flecked in mud and black mold, and all but the most well-maintained succumb to the creep of vines on at least part of their structure. If every axe left Ulpha, the saying goes, it would be jungle in two years"
 -Session 1 intro
 
-[locations/ulpha/characters](Ulpha Characters)
+[Ulpha Characters](locations/ulpha/characters)
 
 ## Satla
 
