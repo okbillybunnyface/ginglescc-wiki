@@ -14,6 +14,7 @@ The Nisqwal Commonwealth is a loose collection of cities, towns, and villages al
 -Session 1 intro
 
 [Ulpha Characters](locations/ulpha/characters)
+[Ulpha Locales](locations/ulpha/locales)
 
 ## Satla
 
