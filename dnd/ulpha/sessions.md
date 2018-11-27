@@ -7,3 +7,4 @@
 [2018-11-06 Earth, 3789-08-?? Ulpha](sessions/2018-11-06)
 [2018-11-16 Earth 3789-08-?? Ulpha](sessions/2018-11-16)
 [2018-11-23 Earth 3789-08-?? Ulpha](sessions/2018-11-23)
+[2018-11-26 Earth 3789-08-?? Ulpha](sessions/2018-11-26)
